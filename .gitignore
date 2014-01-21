@@ -1,0 +1,27 @@
+# Xcode useless files
+build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+profile
+*.moved-aside
+DerivedData
+
+# AppCode useless files :D
+.idea/
+
+# OSX useless files :P
+.DS_Store
+
+# GIT useless files :P
+*.orig
+
+#Avoid the awful vim error ¬¬
+.git/.MERGE_MSG.swp
+*.swp 
