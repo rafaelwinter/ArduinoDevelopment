@@ -24,7 +24,7 @@ const int kGreenPin = 11;
 const int kBluePin = 12;
 
 // Delay between each loop cycle
-const int kDelay = 75;
+const int kDelay = 100;
 
 // Some rainbow colors <3
 const long kColorPalette[] = {
