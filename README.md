@@ -29,3 +29,16 @@ Parts used:
 * 1x KEYES 5050 Full-color LED Module for Arduino.
 * Protoboard 
 * Lots of jumpers...
+
+4. KEYES 5050 color selector 
+----
+
+This sketch shows how to select a color for the KEYES 5050 Full-color LED Module using a potentiometer. It lights up the entire LED row using one of the predefined colors. The position of the potentiometer determines which color will be taken from the palette to colorize the LEDs.
+
+Parts used:
+
+* 1x Arduino. I used a DCCduino Nano (a clone), but any Arduino with sufficient pins would work.
+* 1x KEYES 5050 Full-color LED Module for Arduino.
+* 1x 10k Ohm potentiometer
+* Protoboard 
+* Lots of jumpers...
